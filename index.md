@@ -1,8 +1,5 @@
-## DANIELLE MADDOX
-
 Hi! This site is a growing collection of my professional work, hobbies and interests. I fill my time by collaborating with creative and technical people (are there any other kinds?) and quite enjoy it. Take a look around. If you are so inclined, strike up a conversation. I'm always happy to talk internet, movies, the FUTURE, books or really, anything!
 
-```
 ### CURRENTLY
 
 Studying Front-end Web Development
@@ -24,6 +21,6 @@ Studying Front-end Web Development
 ### EDUCATION
 
 - The University of Texas @ Austin
-```
+
 
 Want to know more? [Here I am on LinkedIn](https://www.linkedin.com/in/dmaddx).

@@ -20,7 +20,4 @@ Studying Front-end Web Development
 
 ### EDUCATION
 
-- The University of Texas @ Austin
-
-
-Want to know more? [Here I am on LinkedIn](https://www.linkedin.com/in/dmaddx).
+- The University of Texas **@ Austin**
